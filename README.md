@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 
-Computer Science Undergraduate at Universitas Multimedia Nusantara with interests in Full Stack Web Development, Mobile Application Development, UI/UX Design, and Artificial Intelligence.
+Informatics Undergraduate at Universitas Multimedia Nusantara with interests in Full Stack Web Development, Mobile Application Development, UI/UX Design, and Artificial Intelligence.
 
 Currently exploring AI automation, AI agents, and workflow-based systems while continuing to strengthen my understanding of modern software development.
 
