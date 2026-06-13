@@ -5,12 +5,19 @@
   <br/><br/>
 
   ```
-  ██████╗  █████╗ ███████╗██╗   ██╗ █████╗ 
-  ██╔══██╗██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗
-  ██████╔╝███████║███████╗ ╚████╔╝ ███████║
-  ██╔══██╗██╔══██║╚════██║  ╚██╔╝  ██╔══██║
-  ██║  ██║██║  ██║███████║   ██║   ██║  ██║
-  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
+  ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗    ████████╗ ██████╗     ███╗   ███╗██╗   ██╗
+  ██║    ██║██╔════╝██║     ██╔════╝██╔══██╗████╗ ████║██╔════╝    ╚══██╔══╝██╔═══██╗    ████╗ ████║██║   ██║
+  ██║ █╗ ██║█████╗  ██║     ██║     ██║  ██║██╔████╔██║█████╗         ██║   ██║   ██║    ██╔████╔██║╚██╗ ██╔╝
+  ██║███╗██║██╔══╝  ██║     ██║     ██║  ██║██║╚██╔╝██║██╔══╝         ██║   ██║   ██║    ██║╚██╔╝██║ ╚████╔╝ 
+  ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗      ██║   ╚██████╔╝    ██║ ╚═╝ ██║  ╚██╔╝  
+   ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝      ╚═╝    ╚═════╝     ╚═╝     ╚═╝   ╚═╝   
+
+  ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
+  ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
+  ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  
+  ██╔══██╗██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  
+  ██║  ██║██║  ██║╚██████╔╝██║     ██║███████╗███████╗
+  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
   ```
 
 </div>
@@ -29,19 +36,21 @@ Experienced in developing academic and personal projects using **React Native**,
 
 <div align="center">
 
-  <a href="mailto:rasyabaswara7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:rasyabaswara7@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/rasya-abhista-indrabaswara-5b953228a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/rasya_abhista" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="50"/>
   </a>
+  &nbsp;
   <a href="https://discord.com/users/rasya6469" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="50"/>
   </a>
-  <img src="https://img.shields.io/badge/Website-808080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website (Coming Soon)"/>
 
 </div>
 
@@ -51,25 +60,7 @@ Experienced in developing academic and personal projects using **React Native**,
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-000000?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,py,php,mysql,postgres,html,css,laravel,react,expo,supabase,firebase,figma,canva,git,github&perline=8" />
 
 </div>
 
@@ -79,16 +70,16 @@ Experienced in developing academic and personal projects using **React Native**,
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RasyaAbhista&show_icons=true&theme=gruvbox_dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=C0C0C0&icon_color=808080" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasyaAbhista&layout=compact&theme=gruvbox_dark&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=C0C0C0" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RasyaAbhista&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasyaAbhista&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasyaAbhista&theme=gruvbox&hide_border=true&background=0D0D0D&stroke=808080&ring=FFFFFF&fire=C0C0C0&currStreakLabel=FFFFFF" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasyaAbhista&theme=tokyonight&hide_border=true" width="60%" />
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasyaAbhista&theme=github-compact&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=C0C0C0&point=808080" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasyaAbhista&theme=tokyo-night&hide_border=true" width="80%" />
 
 </div>
 
