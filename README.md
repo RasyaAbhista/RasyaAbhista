@@ -26,9 +26,9 @@
 
 ## 👋 About Me
 
-Computer Science Undergraduate at **Universitas Multimedia Nusantara** with interests in **Full Stack Web Development**, **Mobile Application Development**, **UI/UX Design**, and **Artificial Intelligence**.
-
-Experienced in developing academic and personal projects using **React Native**, **Laravel**, **Supabase**, **PHP**, and **JavaScript**. Passionate about creating user-centered digital solutions and continuously improving technical skills through projects and certifications.
+Computer Science Undergraduate at Universitas Multimedia Nusantara with interests in Full Stack Web Development, Mobile Application Development, UI/UX Design, and Artificial Intelligence.
+Currently exploring AI automation, AI agents, and workflow-based systems while continuing to strengthen my understanding of modern software development.
+Experienced in developing academic and personal projects using React Native, Laravel, Supabase, PHP, and JavaScript. Passionate about building user-centered digital solutions and continuously improving technical skills through hands-on projects and certifications.
 
 <br/>
 
@@ -60,7 +60,7 @@ Experienced in developing academic and personal projects using **React Native**,
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,py,php,mysql,postgres,html,css,laravel,react,expo,supabase,firebase,figma,canva,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,py,php,mysql,postgres,html,css,laravel,react,react,supabase,firebase,figma,git,github,vscode&perline=8" />
 
 </div>
 
@@ -72,14 +72,6 @@ Experienced in developing academic and personal projects using **React Native**,
 
   <img src="https://github-readme-stats.vercel.app/api?username=RasyaAbhista&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasyaAbhista&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasyaAbhista&theme=tokyonight&hide_border=true" width="60%" />
-
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasyaAbhista&theme=tokyo-night&hide_border=true" width="80%" />
 
 </div>
 
