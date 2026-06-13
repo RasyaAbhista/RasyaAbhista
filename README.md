@@ -26,9 +26,11 @@
 
 ## 👋 About Me
 
-Computer Science Undergraduate at **Universitas Multimedia Nusantara** with interests in **Full Stack Web Development**, **Mobile Application Development**, **UI/UX Design**, and **Artificial Intelligence**.
+Computer Science Undergraduate at Universitas Multimedia Nusantara with interests in Full Stack Web Development, Mobile Application Development, UI/UX Design, and Artificial Intelligence.
 
-Experienced in developing academic and personal projects using **React Native**, **Laravel**, **Supabase**, **PHP**, and **JavaScript**. Passionate about creating user-centered digital solutions and continuously improving technical skills through projects and certifications.
+Currently exploring AI automation, AI agents, and workflow-based systems while continuing to strengthen my understanding of modern software development.
+
+Experienced in developing academic and personal projects using React Native, Laravel, Supabase, PHP, and JavaScript. Passionate about building user-centered digital solutions and continuously improving technical skills through hands-on projects and certifications.
 
 <br/>
 
@@ -60,15 +62,7 @@ Experienced in developing academic and personal projects using **React Native**,
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,py,php,mysql,postgres,html,css,laravel,react,supabase,firebase,figma,git,github,vscode&perline=8" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="50"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="50"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js,py,php,mysql,postgres,html,css,laravel,react,nextjs,supabase,firebase,figma,git,github,vscode&perline=8" />
 
 </div>
 
