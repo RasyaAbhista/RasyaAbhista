@@ -42,7 +42,7 @@ Experienced in developing academic and personal projects using React Native, Lar
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/rasya-abhista-indrabaswara-5b953228a/" target="_blank">
+  <a href="https://www.linkedin.com/in/rasya-abhista-indrabaswara/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
   </a>
   &nbsp;
